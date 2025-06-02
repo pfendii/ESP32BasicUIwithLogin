@@ -3,8 +3,8 @@
 #include <Preferences.h>  // Library for storing data in flash memory
 
 // Network credentials
-const char* ssid = "LAN of the free";  
-const char* password = "nerD123$";  
+const char* ssid = "your-ssid-here";  
+const char* password = "your-pw-here";  
 
 // Web server instance
 WebServer server(80);
